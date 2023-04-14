@@ -8,3 +8,4 @@ I learned firstly what an SVG was, as well as how to use my knowledge in Node an
 
 ## Usage
 
+See video.
